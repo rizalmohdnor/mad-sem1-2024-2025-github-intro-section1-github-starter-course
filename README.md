@@ -50,6 +50,7 @@ Tools:      Git | Docker | VS Code
 ⭐️ From [Ken69420](https://github.com/Ken69420)
 
 
-Name: Daniel Imran
-Matric No: 2113649
-#####I already have a profile README before this so im quite familiar already with markdown. Stuffs that include to my readme is just loads of texts which i customize to make it look cooler and also some icons with link refering to my social media accounts and also my portfolio website though some of them is very much still in development
+## Name: Daniel Imran
+## Matric No: 2113649
+# What I learn:
+I already have a profile README before this so im quite familiar already with markdown. Stuffs that include to my readme is just loads of texts which i customize to make it look cooler and also some icons with link refering to my social media accounts and also my portfolio website though some of them is very much still in development
