@@ -1,0 +1,26 @@
+# Mobile Apps Development
+
+## 📚 What I Learned
+1. **State Management**  
+   - Gained an understanding of the importance of state in mobile app development.  
+   - Hands-on experience managing state effectively to ensure smooth UI/UX.
+
+2. **Routing and Navigation**  
+   - Implemented navigation between screens and learned how to pass data through routes.  
+   - Differentiated between push and pop navigation techniques.
+
+3. **Component Design**  
+   - Broke down UI into reusable components for better scalability.  
+   - Experimented with styling techniques for cross-platform apps.
+
+## 🤔 What I Am Still Confused About
+1. **Efficient State Management**  
+   - While I understand basic state management, advanced concepts like Redux feel overwhelming.  
+   - Struggling to decide the best approach for larger apps.
+
+2. **Performance Optimization**  
+   - Unsure how to ensure smooth app performance on lower-end devices.  
+   - Need techniques for identifying and resolving memory leaks or slow renders.
+
+
+*I'm excited to keep improving my skills!*
