@@ -1,4 +1,15 @@
-# :wave: The Basics of GitHub 
+
+# Hi there 👋
+Name: MUHAMAD HAZRIN FAHMI BIN ABD HALIM Matric No: 2213375
+
+# About Me 😄
+An enthusiastic student with genuine curiosity in learning and adjusting to new challenges. I'm committed to gain knowledge as much as possible. From this course, I learn how to create and develop mobile application using framework like flutter. Besides that, I also learn about Github and how to integrate Github in my project. Hopefully I can learn as much knowledge as possible in this course and improve my skill in developing mobile application.
+
+# Hobby 👯
+Play futsal, badminton and basketball
+
+
+# :wave: The Basics of GitHub
 
 ## 🤓 Course overview and learning outcomes 
 
