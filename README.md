@@ -1,4 +1,14 @@
-HAZRIN FAHMI
+
+# Hi there 👋
+Name: MUHAMAD HAZRIN FAHMI BIN ABD HALIM Matric No: 2213375
+
+# About Me 😄
+An enthusiastic student with genuine curiosity in learning and adjusting to new challenges. I'm committed to gain knowledge as much as possible
+
+# Hobby 👯
+Play futsal, badminton and basketball
+
+
 # :wave: The Basics of GitHub
 
 ## 🤓 Course overview and learning outcomes 
