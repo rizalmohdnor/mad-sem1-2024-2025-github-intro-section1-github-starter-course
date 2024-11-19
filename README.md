@@ -115,7 +115,7 @@ This project is a Github intro.
 - **Matric ID**: 2118177
 
 ## Unique Features of the UI
-- My UI stands out because i learn from sir rizal
+- My UI stands out because it is simple and readable
 
 ## Summary of Work Done
 - Edited the `README.md` file to reflect my details and describe the project.
