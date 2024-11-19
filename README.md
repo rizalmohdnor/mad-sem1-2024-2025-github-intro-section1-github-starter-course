@@ -1,5 +1,16 @@
-# :wave: The Basics of GitHub 
+# Author Details :
+# Name : 
+MUHAMMAD ZIYAD FATHULLAH BIN MOHD YAZID
+# Matric No. :
+2211191
+3RD YEAR STUDENT, 1ST SEMESTER
+# About Me :
+As a computer science student, I embody a passion for technology and problem-solving. With a strong foundation in the principles of programming, algorithms, and data structures, I am not only developing technical expertise but also honing my analytical thinking skills. Having experience as a master trainer for PC assembly and computer organization workshops, I take pride in sharing knowledge and empowering others in the field.
 
+Additionally, I respect collaboration, as evidenced by teamwork to organize effective educational projects. This combination of technical knowledge, creativity, and interpersonal abilities distinguishes me as a well-rounded and motivated computer science professional.
+
+From an Introduction to Mobile Apps course, I can gain a strong foundation in designing and developing mobile applications, which are increasingly essential in today’s digital era. I’ll learn how to use programming languages like Java, Kotlin, or Swift, as well as frameworks such as Flutter or React Native, enabling me to create apps for Android, iOS, or cross-platform environments
+# :wave: The Basics of GitHub 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
@@ -105,3 +116,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+## 📚  About this project
+This project is a github intro.
