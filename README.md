@@ -106,3 +106,21 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## About This Project
+This project is a Github intro.
+
+## Author Details
+- **Name**: Muhammad Islahuddin Bin Mohamad Azim
+- **Matric ID**: 2118177
+
+## Unique Features of the UI
+- My UI stands out because i learn from sir rizal
+
+## Summary of Work Done
+- Edited the `README.md` file to reflect my details and describe the project.
+- Experimented with Git commands like `clone`, `add`, `commit`, and `push`.
+- Created branches from local machine and merged
+
+
+  
